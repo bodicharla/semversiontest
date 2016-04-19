@@ -3,7 +3,7 @@
   <groupId>com.metricstream.app</groupId>
   <artifactId>semversiontest</artifactId>
   <packaging>jar</packaging>
-  <version>1.1.0</version>
+  <version>1.1.1-SNAPSHOT</version>
   <name>semversiontest</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -63,7 +63,7 @@
   <scm>
       <developerConnection>scm:git:https://github.com/bodicharla/semversiontest.git</developerConnection>
       <url>https://github.com/bodicharla/semversiontest</url>
-      <tag>semversiontest-1.1.0</tag>
+      <tag>1.1.x</tag>
   </scm>
   
 </project>
